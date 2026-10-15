@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Jarvis</string>
+    <string name="accessibility_description">Lets Jarvis press Home or Back, scroll, tap a labelled button and type text when you ask by voice. Screen contents are not sent anywhere.</string>
+</resources>
